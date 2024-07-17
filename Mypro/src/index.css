@@ -1,0 +1,8 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.gradient-circle{
+
+  @apply bg-gradient-to-b from-blue-800;
+}
